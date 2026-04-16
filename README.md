@@ -1,4 +1,4 @@
-# FDA1 - Online Food Ordering System
+# Online Food Ordering System
 
 `FDA1` is the workspace for the Online Food Ordering System project.  
 It contains a Java Spring Boot backend and a Next.js frontend.

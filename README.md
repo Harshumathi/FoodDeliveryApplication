@@ -46,6 +46,10 @@ npm run dev
 
 Open `http://localhost:3000` in the browser.
 
+## Landing Page Screenshot
+
+![Project Landing Page](assets/fda.png)
+
 ## Development Notes
 
 - Start backend first, then frontend.
